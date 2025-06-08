@@ -1,8 +1,7 @@
 # MINI GROUP
 
-So I was prepping for my **Web Tech exam**...  
-And then I remembered: *Zuckerberg built the first Facebook using PHP & MySQL*.  
-So yeah , I built this.
+So I was prepping for my **Web Tech exam** and wanted to code a project in PHP.
+So yeah , I built this, wanted to know how zuckerberg might have built the initial version of Facebook.
 
 Just a simple app where you can:
 -  Register
@@ -13,7 +12,7 @@ Just a simple app where you can:
 ---
 
 
-### 🏠 Feed
+###  Feed
 ![Feed](./assets/feed.png)
 
 
